@@ -1,50 +1,22 @@
-                THINKS
-     -------------------------
-     | Better crop yield      |
-     | Higher profit          |
-     | Reduce farming risks   |
-     -------------------------
-
-SAYS                              DOES
-------------------      ------------------
-Need proper crop         Checks soil
-guidance                 conditions
-Need weather info        Monitors crops
-Want better income       Uses fertilizers
-
-                FARMER
-
-FEELS                             PAINS
-------------------      ------------------
-Confused about          Wrong crop selection
-crop selection          Low productivity
-Worried about           Climate changes
-losses                  Financial risks
-
-                GAINS
-     -------------------------
-     | Better yield           |
-     | Higher income          |
-     | Smart decisions        |
-     -------------------------
-
 # Empathy Map Canvas
 
-## User Persona
-Farmer
+## User: Farmer
 
-## Goal
-To identify the most suitable crop and improve agricultural productivity.
+| Says | Thinks |
+|-------|---------|
+| I need better crop guidance. | Which crop gives maximum yield? |
+| Weather is unpredictable. | How can I reduce losses? |
+| I want higher profits. | Which crop suits my soil? |
 
-## Empathy Map
-(Insert Empathy Map Diagram Here)
+| Does | Feels |
+|-------|--------|
+| Checks soil conditions. | Worried about crop failure. |
+| Uses fertilizers and irrigation. | Confused about crop selection. |
+| Monitors weather forecasts. | Concerned about financial losses. |
 
-### Key Insights
-- Farmers need accurate crop recommendations.
-- They are concerned about climate and soil conditions.
-- They seek higher productivity and profitability.
-- They need simple and reliable decision support systems.
-     
-     
-
-     
+| Pains | Gains |
+|--------|--------|
+| Wrong crop selection. | Better crop yield. |
+| Low productivity. | Higher profits. |
+| Climate uncertainty. | Smart farming decisions. |
+| Resource wastage. | Efficient resource utilization. |
